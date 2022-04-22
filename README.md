@@ -1,5 +1,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=webala&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webala&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
@@ -9,5 +9,7 @@
 - 💬 Ask me about Python, Javascript, React, Django, Flask, Solidity, Blockchain and Smart Contracts
 - 📫 How to reach me: <a href="https://twitter.com/Webbie1001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webala&show_icons=true&theme=dark&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
