@@ -28,7 +28,8 @@ I am a full stack web developer and Smart contract developer.
 
 <br/>
 
-<iframe src="https://giphy.com/embed/dWesBcTLavkZuG35MI" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/webdesign-webtasrimi-gitialmarketing-dWesBcTLavkZuG35MI">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/dWesBcTLavkZuG35MI" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<p><a href="https://giphy.com/gifs/webdesign-webtasrimi-gitialmarketing-dWesBcTLavkZuG35MI">via GIPHY</a></p>
 
 
 **languages and tools:**  
