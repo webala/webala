@@ -18,6 +18,8 @@ I am a full stack web developer and Smart contract developer.
 -->
 
 
+
+
 - 🌱 I’m currently learning Web3, Blockchain Technology and Smart Contract development
 - 👯 I’m looking to collaborate on Django, Flask, ReactJS, Solidity, Smart Contracts
 - 🤔 I’m looking for help with Android development.
