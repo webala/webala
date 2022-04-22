@@ -17,10 +17,6 @@ I am a full stack web developer and Smart contract developer.
 </a>
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=webala&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 
 - 🌱 I’m currently learning Web3, Blockchain Technology and Smart Contract development
 - 👯 I’m looking to collaborate on Django, Flask, ReactJS, Solidity, Smart Contracts
@@ -31,7 +27,6 @@ I am a full stack web developer and Smart contract developer.
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -42,6 +37,8 @@ I am a full stack web developer and Smart contract developer.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webala&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=webala&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
