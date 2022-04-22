@@ -8,6 +8,7 @@ I am a full stack web developer and Smart contract developer.
 <a href="https://twitter.com/Webbie1001">
   <img align="left" alt="Daniel Webala | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+</br>
 <!--
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
