@@ -28,8 +28,7 @@ I am a full stack web developer and Smart contract developer.
 - 💬 Ask me about Python, Javascript, React, Django, Flask, Solidity, Blockchain and Smart Contracts
 
 
-
-                   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webala&show_icons=true&theme=gruvbox&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webala&show_icons=true&theme=gruvbox&langs_count=8&layout=compact)]        (https://github.com/anuraghazra/github-readme-stats)
 
 
 
