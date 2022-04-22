@@ -26,10 +26,6 @@ I am a full stack web developer and Smart contract developer.
 - 🤔 I’m looking for help with Android development.
 - 💬 Ask me about Python, Javascript, React, Django, Flask, Solidity, Blockchain and Smart Contracts
 
-<br/>
-
-<iframe src="https://giphy.com/embed/dWesBcTLavkZuG35MI" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-<p><a href="https://giphy.com/gifs/webdesign-webtasrimi-gitialmarketing-dWesBcTLavkZuG35MI">via GIPHY</a></p>
 
 
 **languages and tools:**  
