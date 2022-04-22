@@ -13,7 +13,7 @@ I am a full stack web developer and Smart contract developer.
 - 💬 Ask me about Python, Javascript, React, Django, Flask, Solidity, Blockchain and Smart Contracts
 - 📫 How to reach me: <a href="https://twitter.com/Webbie1001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=webala&theme=redical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
