@@ -1,5 +1,5 @@
 Hey there I'm Daniel Webala! </br>
-I am a Web Developer and Smart Contract Developer.
+I am a Full Stack Developer.
 
 
           
@@ -26,10 +26,7 @@ I am a Web Developer and Smart Contract Developer.
 </br>
 
 
-- 🌱 I’m currently learning Web3, Blockchain Technology and Smart Contract development
-- 👯 I’m looking to collaborate on Django, Flask, ReactJS, Solidity, Smart Contracts
-- 🤔 I’m looking for help with Android development.
-- 💬 Ask me about Python, Javascript, React, Django, Flask, Solidity, Blockchain and Smart Contracts
+
 
 
 
