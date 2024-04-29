@@ -3,7 +3,7 @@ I am a Full Stack Developer.
 
 
 
-You can reach me via twitter.
+You can reach me via X.
 <a href="https://twitter.com/Webbie1001">
     <img align="left" alt="Daniel Webala | Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
 </a>
